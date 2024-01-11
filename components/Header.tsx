@@ -15,7 +15,7 @@ export default function Header() {
                     <p className="gray">I design and code beautiful simple things, and I love what I do.</p>
                     <a className="green" href="mailto:madmane2000@gmail.com">Let&#39;s chat!</a>
                 </div>
-                <Image src="/images/blaiti.png" width={463} height={513} alt="blaiti"  /> 
+                <Image src="images/blaiti.png" width={463} height={513} alt="blaiti"  /> 
             </div>
         </header>
     )

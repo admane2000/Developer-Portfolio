@@ -8,17 +8,17 @@ export default function About() {
                 <div className="flex-full">
                     <AboutCard
                         title="Java Developer"
-                        icon="/icons/design.svg"
+                        icon="icons/design.svg"
                         description="I create design  products with unique ideas."
                         projects={7} />
                     <AboutCard
                         title="C# Developer"
-                        icon="/icons/code.svg"
+                        icon="icons/code.svg"
                         description="I develop Front-End with coding super smooth."
                         projects={10} />
                     <AboutCard
                         title="Web Development"
-                        icon="/icons/phone.svg"
+                        icon="icons/phone.svg"
                         description="I develop cross-platform mobile applications."
                         projects={7} />
                 </div>
@@ -33,7 +33,7 @@ export default function About() {
             </div>
 
             <div className="flex partners justify-space">
-                <Image src="/images/partners/gvg.png" height={45} width={180} alt="wallety" />
+                <Image src="images/partners/gvg.png" height={45} width={180} alt="wallety" />
                 
             </div>
         </section>

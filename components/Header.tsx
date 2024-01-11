@@ -13,9 +13,9 @@ export default function Header() {
                     <h1 className="white">Talk is cheap.</h1>
                     <h1 className="white">Show me the code!</h1>
                     <p className="gray">I design and code beautiful simple things, and I love what I do.</p>
-                    <a className="green" href="wa.link/bg70cc">Let&#39;s chat!</a>
+                    <a className="green" href="https://wa.me/917028149833?text=Hello%20Mahesh,%20let's%20chat!">Let&#39;s chat!</a>
                 </div>
-                <Image src="images/blaiti.png" width={463} height={513} alt="blaiti"  /> 
+                <Image src="/images/blaiti.png" width={463} height={513} alt="blaiti"  /> 
             </div>
         </header>
     )
